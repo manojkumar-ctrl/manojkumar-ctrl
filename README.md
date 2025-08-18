@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manojkumar Eshwar</h1>
 <h2 align="center">I am a AI entusiast and a Web Developer</h2>
 
-- 🌱 I’m currently learning **GenAI Frameworks, Agentic AI**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **manojkumarnalwar@gmail.com**
 
