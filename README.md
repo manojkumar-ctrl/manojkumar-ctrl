@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manojkumar Eshwar</h1>
-<h2 align="center">I am a AI entusiast and a Web Developer</h2>
+<h1 align="center">Hii 👋, I'm Manojkumar Eshwar</h1>
+<h2 align="center">I am a MERN Developer who loves to solve problems, exploring Generative AI and Agentic AI</h2>
 
 - 🌱 I’m currently learning **Machine Learning**
 
